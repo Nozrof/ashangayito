@@ -6,6 +6,11 @@ import React from "react";
 const usestyles = makeStyles((theme) => ({
   footer: {
     background: "linear-gradient(to right bottom, #430089, #82ffa1)",
+    color: 'white',
+    padding: theme.spacing(10),
+    [theme.breakpoints.down('xs')]: {
+      padding: theme.spacing(3,5),
+    },
   },
   link: {
     textDecoration: "none",
@@ -17,12 +22,7 @@ export default function Footer() {
   const styles = usestyles();
   return (
     <footer className={styles.footer}>
-      <Box
-        px={{ xs: 3, sm: 10 }}
-        py={{ xs: 5, sm: 10 }}
-        bgcolor="text.secondary"
-        color="white"
-      >
+      
         <Container maxwidth="lg">
           <Grid container spacing={5}>
             <Grid item xs={12} sm={4}>
@@ -112,7 +112,7 @@ export default function Footer() {
             AshongayitoShop @{new Date().getFullYear()}
           </Box>
         </Container>
-      </Box>
+     
     </footer>
   );
 }

@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-
 import CssBaseline from '@material-ui/core/CssBaseline';
 import { ThemeProvider } from '@material-ui/core/styles';
 import Footer from './Footer/Footer';

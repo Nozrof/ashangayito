@@ -7,6 +7,7 @@ import Home from '../../Pages/Home';
 import PageInformation from '../../Pages/PageInformation';
 import NotFound from '../../Pages/NotFound';
 import { Redirect, Route, Switch } from 'react-router-dom';
+import Users from '../../Account/SignUp/Users'
 
 export default function Middleproperty() {
 	return (
@@ -18,6 +19,7 @@ export default function Middleproperty() {
 			<Route path='/events' component={Events} />
 			<Route path='/security' component={Security} />
 			<Route path='/info' component={PageInformation} />
+			<Route path='/SignUp' component={Users} />
 			<Route path='*' component={NotFound} />
 		</Switch>
 	);

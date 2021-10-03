@@ -3,7 +3,7 @@ import React from 'react'
 
 
 export default function Input(props) {
-    const {name,label,value,onChange} = props;
+    const {name,label,value,onChange,margin} = props;
 
     return (
         <TextField
@@ -12,6 +12,7 @@ export default function Input(props) {
         value={value} 
         name= {name}
         onChange={onChange}
+        margin="normal"
      />
     )
 }

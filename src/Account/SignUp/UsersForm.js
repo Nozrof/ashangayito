@@ -20,17 +20,12 @@ const initialFValues = {
     phone:'',
     gender:"male",
     acceptTerms:false,
-    hiredate: new Date(),
+    hireDate: new Date(),
     
 }
 export default function UsersForm() {
 
-    const labels= ( 
-        <Link
-        href="/privacy"
-        style={{ textDecoration: "none", color: "inherit" }}
-      >Privacy</Link>
-    )
+   
 
    const{ values,setValues,handleInputChange} = UseForm(initialFValues)
     return (
@@ -43,6 +38,7 @@ export default function UsersForm() {
                        name="fullName"
                        onChange={handleInputChange}
                        value={values.fullName} 
+                       margin= "dense"
                     />
                     <Controls.Input
                        label="Email"
@@ -63,8 +59,9 @@ export default function UsersForm() {
 
                     <Controls.Checked
                     name="acceptTerms"
-                    label="I have read all the conditions and terms"
+                    label={"I have read all the "}
                     value={values.acceptTerms}
+                
                     />
                    
                 </Grid>

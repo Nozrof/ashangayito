@@ -160,6 +160,8 @@ const ProductsList = [
     ],
     category: "Lamp",
     label: "Lampitem",
+    color1:"×", 
+    color2:"×", 
     price: "600",
     del: "800",
 
@@ -203,6 +205,8 @@ const ProductsList = [
     category: "MarriagesetList",
     label: "marriagesetlist",
     price: "1890",
+    color1: "Black",
+    color2: "Brown",
     del: "2099",
     description:
       "▶ Set 1 (Black & Brown): Wallet, Belt, Goggles, Watch & Tie (Blue, Brown, Black).▶ Set 2 (Brown): Wallet, Belt, Goggles, Watch, Pen & Keyring.",
@@ -1095,47 +1099,47 @@ const ProductsList = [
     ratings: "105",
     react: "224",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/124439381_210822010396258_5542383457118319640_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=qWrQtVefKH8AX8iYi-s&_nc_ht=scontent.fdac99-1.fna&oh=70c87ac22ea45cddc1b130bb7967b20b&oe=6156C561",
+      "images/MiniPortablePocketMirror.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/124439381_210822010396258_5542383457118319640_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=qWrQtVefKH8AX8iYi-s&_nc_ht=scontent.fdac99-1.fna&oh=70c87ac22ea45cddc1b130bb7967b20b&oe=6156C561",
+          "images/MiniPortablePocketMirror.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/124148141_210822037062922_7242974173228524144_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=neK6-oaD7-kAX_cjYk4&_nc_ht=scontent.fdac99-1.fna&oh=7ee8f1cc7048367b17e32a08fb27a383&oe=61578761",
+          "images/MiniPortablePocketMirror1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/125031628_210822030396256_807344394196914494_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=ib7hnYD7dM4AX86AuYO&_nc_ht=scontent.fdac99-1.fna&oh=f18a2d0c0eadfa5950c6a7b4073bbeb2&oe=6158F5B9",
+          "images/MiniPortablePocketMirror2.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/124862028_210822063729586_2421163990997629722_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=it16f0WowJYAX-9_r7x&_nc_ht=scontent.fdac99-1.fna&oh=64c99be273d1ff2590ec3105e9b5197e&oe=615714D9",
+          "images/MiniPortablePocketMirror3.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/124251580_210822090396250_1669330442765045252_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=fCL4pnMz2AEAX8FlTiA&_nc_ht=scontent.fdac99-1.fna&oh=83d09431efcda8bc1ed3e4863d5d699c&oe=6155BBB3",
+          "images/MiniPortablePocketMirrormain1.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/124582158_210822120396247_1236203530648214245_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=AZCbPeUZiM8AX90fSkF&_nc_ht=scontent.fdac99-1.fna&oh=bd1dd1bfa8a29bb349aa1a422e119954&oe=61589087",
+          "images/MiniPortablePocketMirrormain2.jpg",
       },
       {
         id: 6,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/125111046_210822083729584_1224565567427025496_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=hMWW7SHJUlcAX8HQpyZ&_nc_ht=scontent.fdac99-1.fna&oh=59790539ad08305c5a7967d4ab0314fa&oe=61571D7D",
+          "images/MiniPortablePocketMirrormain3.jpg",
       },
       {
         id: 7,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/124062581_210821993729593_8624917069202058172_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=nmtxTACNctUAX9MFusp&_nc_ht=scontent.fdac99-1.fna&oh=750dde8f1f2c9baa65340dbe0e88774d&oe=61594131",
+          "images/MiniPortablePocketMirrormain4.jpg",
       },
     ],
     category: "Mirror",
@@ -1150,37 +1154,37 @@ const ProductsList = [
     ratings: "144",
     react: "206",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/87529718_144749817003478_7952721484344983552_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=kjMxXVE0gKQAX8GttrY&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=d3ec09bd9101e95f2a2c5cade2771bfd&oe=6156A402",
+      "images/Mouse.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/87529718_144749817003478_7952721484344983552_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=kjMxXVE0gKQAX8GttrY&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=d3ec09bd9101e95f2a2c5cade2771bfd&oe=6156A402",
+          "images/Mouse.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/88026644_144749717003488_3736923977642147840_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=GmWRuuHfUnIAX-CUIl8&_nc_ht=scontent.fdac99-1.fna&oh=a322e1245c31f159176c1a3b4a9f0f52&oe=615911E9",
+          "images/Mouse1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/88302164_144749467003513_6212968066825846784_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=RAwheWlUUy0AX-Wr1tv&_nc_ht=scontent.fdac99-1.fna&oh=c5c030ba4e41c073773f22e19a8fd275&oe=6157D8FE",
+          "images/Mouse2.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/88043651_144749760336817_795338178402713600_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=l5QRcxZ-l4gAX_KYbFB&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=e5ad5b0a38d3992fa1cb79e65def4621&oe=61592A6F",
+          "images/Mouse3.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/88228522_144749847003475_2039996847262531584_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=q-40lNQzfWoAX_U2nl1&_nc_ht=scontent.fdac99-1.fna&oh=d6ecdcca482afa5fec028539b03c9218&oe=615985E7",
+          "images/Mousemain1.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/87943001_144749657003494_89015301743575040_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=bAtvzgL1H0gAX9MvL_Z&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=3de5b8098be7aa958f7349aaa9ee4494&oe=6156BE18",
+          "images/Mousemain2.jpg",
       },
     ],
     category: "MouseList",

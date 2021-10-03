@@ -73,7 +73,7 @@ export default function SpecialMainItems(props) {
                 <img
                   alt="Ashangayito Logo"
                   className={classes.avatar}
-                  src="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78617856_108071390671321_7780986211992076288_n.png?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=vKG_YiRimBMAX_W79Gy&_nc_ht=scontent.fdac99-1.fna&oh=1d96c5ba617dbc0591f04b28145c4f49&oe=61498685"
+                  src="images/cardLogo.png"
                 />
               </Avatar>
             }

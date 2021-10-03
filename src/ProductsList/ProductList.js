@@ -1064,27 +1064,27 @@ const ProductsList = [
     ratings: "249",
     react: "493",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84974045_139149530896840_6098887387482423296_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=v3qRMLnRCbkAX-lZFHH&_nc_ht=scontent.fdac99-1.fna&oh=ef37379bd3e90fdcf3926a95bb0b0561&oe=61542B8D",
+      "images/ciggratelighter",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84974045_139149530896840_6098887387482423296_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=v3qRMLnRCbkAX-lZFHH&_nc_ht=scontent.fdac99-1.fna&oh=ef37379bd3e90fdcf3926a95bb0b0561&oe=61542B8D",
+          "images/ciggratelighter",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84596191_139149424230184_1252692929172996096_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=N5OC7FrCNK0AX9KzlsE&_nc_ht=scontent.fdac99-1.fna&oh=87fc31f0bbf531e217a8eeb8de0b7c8f&oe=61535195",
+          "images/ciggratelighter1",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84859097_139149454230181_5206223613769809920_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=ZxCUmp_lbMEAX_fxnp9&_nc_ht=scontent.fdac99-1.fna&oh=dd7228537c72185561bc20720818d1fb&oe=615262C6",
+          "images/ciggratelighter2",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84823765_139149344230192_235104224860438528_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=NzrDGfomCiEAX9QBY_p&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=dd6371b236673408b410e900c63fdacc&oe=6153BDE1",
+          "images/ciggratelightermain1",
       },
     ],
     category: "ChiggratelighterList",

@@ -542,78 +542,73 @@ const ProductsList = [
     ratings: "14",
     react: "79",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79834251_116347946510332_690001120466042880_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=FbfZTNjVSxMAX_YHmlY&_nc_ht=scontent.fdac99-1.fna&oh=b778eb428a15eeeb3a451706cc5a6e0d&oe=6146E1F9",
+      "images/Cableprotector.jpg",
 
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79834251_116347946510332_690001120466042880_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=h4_a2B4O5iAAX_Kl1Zk&_nc_ht=scontent.fdac99-1.fna&oh=9b60a0850bb056468d85e9f9e7340704&oe=6152BF79",
+          "images/Cableprotector1.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/80193133_116347966510330_944095788038881280_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=fea5hCqIhlQAX9yBdRM&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=dae821dc5b76896b4c35067d34a33d8c&oe=61527DAC",
+          "images/Cableprotector2.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78659305_116348179843642_8025434816809795584_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=p-_BfIm_ya4AX_zLWxR&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=663895f774028071cf1a7e57e5a96fcb&oe=6156353F",
+          "images/Cableprotector3.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79309167_116348139843646_4187532460071845888_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=dIPbjExwMNYAX8xkvTc&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=f69155978bd0750482994fa04a2cf4f5&oe=6155CB3D",
+          "images/Cableprotector4.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79758125_116348199843640_4670628423020838912_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=XEDJ3GpZUvYAX94zrmP&_nc_ht=scontent.fdac99-1.fna&oh=003cf671702aa2a12d20defe361d5ec8&oe=6152CFE6",
+          "images/Cableprotector5.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79384700_116348253176968_503900810300620800_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=kk6b6futqaMAX-i8JCY&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=0282a559c74f53f7aa7150bfe8ff640f&oe=6154D698",
+          "images/Cableprotectormain1.jpg",
       },
       {
         id: 6,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79367012_116348229843637_2713748324036378624_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=IiDluLa53MIAX-TUAeX&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=891eb2be2d5f9688f6bbf2700938b362&oe=61534D7C",
+          "images/Cableprotectormain2.jpg",
       },
       {
         id: 7,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79308008_116348279843632_3560535194123370496_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=jIcG6VlLwXsAX-JSqyC&_nc_ht=scontent.fdac99-1.fna&oh=b0322ecd35719b2717d9d98d27a83bb5&oe=61547805",
+          "images/Cableprotectormain3.jpg",
       },
       {
         id: 8,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78792598_116348309843629_7051625229541441536_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=9gZ7F6llfTEAX-cU5Vz&_nc_ht=scontent.fdac99-1.fna&oh=ea91db617ba90409f890c5d58dbcf2a2&oe=6155775A",
+          "images/Cableprotectormain4.jpg",
       },
       {
         id: 9,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79121701_116348019843658_566574145609924608_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=msrv-9_KmCAAX9Vzhuj&_nc_ht=scontent.fdac99-1.fna&oh=7854ce80ce1685264ba44cdd14b1956b&oe=6153DFF2",
+          "images/Cableprotectormain5.jpg",
       },
       {
         id: 10,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79538921_116347989843661_2207012538967654400_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=e65n3GWW7pQAX-ChtUy&_nc_ht=scontent.fdac99-1.fna&oh=815ceddd6dd138f5d5c005e6bdc5d4b7&oe=615491A9",
+          "images/Cableprotectormain6.jpg",
       },
       {
         id: 11,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79238522_116348039843656_5096380778657349632_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=KNAhggLT8LcAX_QmBvL&_nc_ht=scontent.fdac99-1.fna&oh=a50b6cce85148cf5306341f316a2ebd3&oe=6153C3B1",
+          "images/Cableprotectormain7.jpg",
       },
       {
         id: 12,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79154861_116348073176986_5755417723244904448_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=fJxuZWFYakgAX-_aDwh&_nc_ht=scontent.fdac99-1.fna&oh=9d90042675d0eb1832c6707d27df18e6&oe=61544B91",
-      },
-      {
-        id: 13,
-        slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79148586_116348093176984_5824158369874706432_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=vPWN8-2bZyEAX_0Ftgr&_nc_ht=scontent.fdac99-1.fna&oh=724912908c746eac34d4ae3a04826468&oe=6153DF4A",
+          "images/Cableprotectormain8.jpg",
       },
     ],
     category: "MiniList",
@@ -629,47 +624,47 @@ const ProductsList = [
     ratings: "98",
     react: "404",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/80010587_116328916512235_7840762342752124928_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=X_Y6F-SkEpIAX8nQ8YY&_nc_ht=scontent.fdac99-1.fna&oh=96b2bacf5d39ba4b0353f8d99bb7664b&oe=6147962F",
+      "images/Combo.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/80010587_116328916512235_7840762342752124928_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=YpsgbyLqjjAAX9gRvH5&_nc_ht=scontent.fdac99-1.fna&oh=33acfaba369b01f03d70b0b126f37ff1&oe=615373AF",
+          "images/Combo.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79212877_116329279845532_7089145578507993088_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=OHJ4e2QopKoAX92a8aO&_nc_oc=AQlypeFuRSRGuEIE83W5OOKnfmSXa9mTFhyteLDH_4gft-TJju9leOLh1BVgHfi_Z4Q&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=8864b903b7b0b9822127463188657469&oe=6153A6A7",
+          "images/Combo2.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78654420_116329239845536_1941176397175193600_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=5EHt5UmmpPoAX8I3zcz&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=7e47796c9537cfbfa87c41d21078c285&oe=615589B7",
+          "images/Combo3.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79540683_116329389845521_3840883227250130944_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=CIW4FcojpXEAX--B6ON&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=247940e6ba53c3f14262b341bbf7a1c6&oe=6153E05B",
+          "images/Combo4.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78243725_116329263178867_120487112691679232_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=VYyok4wRqnEAX-J5n6R&_nc_ht=scontent.fdac99-1.fna&oh=00494cda9eb69b4979ba780855db5e1b&oe=6155BBE2",
+          "images/Combo5.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78491655_116329309845529_8797371612497182720_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=eua851CYo_EAX85YqrI&_nc_ht=scontent.fdac99-1.fna&oh=0930889fd961aba3d05f7af7adfb4420&oe=61535523",
+          "images/Combo6.jpg",
       },
       {
         id: 6,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78608801_116329343178859_4198899520517439488_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=eL24nFsvhcEAX-SfHUI&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=544b92c746cf28a6bb6d03ca925b9694&oe=615294E9",
+          "images/Combo7.jpg",
       },
       {
         id: 7,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79528102_116329373178856_8783226919391854592_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=GhDGevtlURQAX_JXugV&_nc_ht=scontent.fdac99-1.fna&oh=207728b10ec92b447fd66b638277042c&oe=6154D3F9",
+          "images/Combomain1.jpg",
       },
     ],
     category: "ComboList",
@@ -685,62 +680,52 @@ const ProductsList = [
     ratings: "187",
     react: "708",
     image:
-      "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/78161284_110479153763878_2704326256710647808_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=J-flS850in0AX9NEjo7&_nc_ht=scontent.fdac14-1.fna&oh=62b118601ae0395fc3d7cfa1cf618c2b&oe=6146BE69",
+      "images/Marvel&DCKeyRingsmain1.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79364849_115427036602423_5892779328650870784_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=gLIIkuh05VsAX-E0AzJ&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=53b8ec25a1c9595312d15f713266c5ba&oe=61534E21",
+          "images/Marvel&DCKeyRingsmain1.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78749607_115421553269638_6986734535761199104_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=TM4qp1QNGHoAX98QxeX&_nc_ht=scontent.fdac99-1.fna&oh=5453cfdfff22aad3150ee15bda7f0ba8&oe=61562492",
+          "images/Marvel&DCKeyRingsmain2.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/80224920_115421579936302_4591284687548186624_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=OdNg8P2_T4YAX84kVht&_nc_ht=scontent.fdac99-1.fna&oh=bc6f8eb610181b41bc7b42cd1e750ca6&oe=61532ACC",
+          "images/Marvel&DCKeyRingsmain3.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79353863_115421633269630_205284481672675328_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=N9MkOe3vbhAAX--HaLB&_nc_ht=scontent.fdac99-1.fna&oh=c2f7a46dc99ab49b4882a89e13603bbb&oe=6153EC8C",
+          "images/Marvel&DCKeyRingsmain4.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78697836_115421429936317_5179004769632518144_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=1wNHJmnjzEwAX8oi6wa&_nc_ht=scontent.fdac99-1.fna&oh=4da47b5b76dabfbdf6e4638dc51981b2&oe=61540683",
+          "images/Marvel&DCKeyRingsmain5.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78366259_115421439936316_3671253618448662528_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=nrKjbbOx88wAX-vVCLy&_nc_ht=scontent.fdac99-1.fna&oh=a6d44b0ebb91337b8ec922a750e935d6&oe=615522E3",
+          "images/Marvel&DCKeyRingsmain6.jpg",
       },
       {
         id: 6,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/75380443_115421409936319_7443863147913412608_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=b4czrHOFMYQAX_6gLuc&_nc_ht=scontent.fdac99-1.fna&oh=31412532e0b85d4c08a487d37030a122&oe=6154F232",
+          "images/Marvel&DCKeyRingsmain7.jpg",
       },
       {
         id: 7,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79490875_115421496602977_71117498711277568_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=HdNQC-e36m8AX-6Ykpx&_nc_ht=scontent.fdac99-1.fna&oh=c8faaacab896882c755c75327080a9d0&oe=61548F88",
+          "images/Marvel&DCKeyRingsmain8.jpg",
       },
       {
         id: 8,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78553782_115421523269641_5177880196870569984_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=dE9SorMDSTkAX8Nv7WS&_nc_oc=AQmJldtkIHX6rmpf1ugZQW4E8Fbz5RuyyE29ffvncmj8ATt7eapiOjkMMVZ14pzXhjM&_nc_ht=scontent.fdac99-1.fna&oh=4ba80aa168acfeba3692055b138155e3&oe=6155F2E8",
-      },
-      {
-        id: 9,
-        slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/s600x600/78161284_110479153763878_2704326256710647808_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=A7s3Izcks9YAX9QKjqh&_nc_ht=scontent.fdac99-1.fna&oh=104142dd9e1ad587138225429d9216bb&oe=61530F06",
-      },
-      {
-        id: 10,
-        slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78712762_110479223763871_7315080473393233920_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=68nTcVTl5fgAX-2oPim&_nc_ht=scontent.fdac99-1.fna&oh=2c29f11b95f13b024afb8800055533bd&oe=61537FA7",
+          "images/Marvel&DCKeyRingsmain9.jpg",
       },
     ],
     category: "KeyringList",
@@ -755,42 +740,37 @@ const ProductsList = [
     ratings: "497",
     react: "687",
     image:
-      "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/79098185_110385367106590_7609993311851380736_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=1FFlx9SSOkEAX84RReW&tn=FRF7xuqeHOPeH9jL&_nc_ht=scontent.fdac14-1.fna&oh=506baa1d58ba66055383108df3f7fa2a&oe=6148BA2C",
+      "images/LCDWritingTablets.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79098185_110385367106590_7609993311851380736_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=x7fkkcUAhBcAX95wR47&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=a82004d7b4970e293fc1f3fa93316ae5&oe=615497AC",
+          "images/LCDWritingTablets.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78282220_110385553773238_1317952934306119680_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=m16Vdh0V_8sAX-CUwhx&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=ea91cf56b640f6027a6fe47131038b8c&oe=61543D7D",
+          "images/LCDWritingTablets1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/77402512_110385603773233_8376031201885945856_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=yiMKwoGjiPMAX_N6u0k&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=9eaf4f7f2f0d558df7a4ee47cbba7daf&oe=61557AD6",
+          "images/LCDWritingTabletsmain1.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/77391965_110385723773221_3692115614635130880_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=xzFFEKBDUF8AX-xTjep&_nc_ht=scontent.fdac99-1.fna&oh=12188348cd45a5ed53ea5458250068c1&oe=61528CF4",
+          "images/LCDWritingTabletsmain2.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78686497_110385907106536_2488709037206536192_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=TJjriFLJp2IAX-7z34J&_nc_ht=scontent.fdac99-1.fna&oh=d990fa6a94e58b5d140eb72792fef11d&oe=6154E887",
+          "images/LCDWritingTabletsmain3.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78405980_110386007106526_6348674447670509568_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=rGiHMH0F2wsAX9RzEVx&_nc_ht=scontent.fdac99-1.fna&oh=87a5f7df36be395fa2b1c245356494fd&oe=61563890",
-      },
-      {
-        id: 6,
-        slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78725178_115406383271155_1074766770700550144_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=a26aad&_nc_ohc=k-W9FrVrVyEAX_EfdoN&_nc_ht=scontent.fdac99-1.fna&oh=9269d086f21c1f5a138119e8704f5325&oe=6154010C",
+          "images/LCDWritingTabletsmain4.jpg",
       },
     ],
     category: "Tablet'sList",
@@ -806,42 +786,42 @@ const ProductsList = [
     ratings: "229",
     react: "444",
     image:
-      "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/78475018_113702656774861_8655036125724803072_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=xHAKA6N5WCkAX8C8hOe&_nc_ht=scontent.fdac14-1.fna&oh=57a02762516e11f38a61023b4bc26437&oe=6147C909",
+      "images/MarvelBobbleHead.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/s600x600/78475018_113702656774861_8655036125724803072_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=bmXl12lL1OEAX9I5KnE&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=6b5462df440595373dd3cbc210526cd1&oe=61562B66",
+          "images/MarvelBobbleHead.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79866688_113702680108192_5860430090243932160_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=8138FeLi5gkAX_HNtAw&_nc_ht=scontent.fdac99-1.fna&oh=f77f368257f56579bbe8644c39214885&oe=6154AEB5",
+          "images/MarvelBobbleHeadmain1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78952925_113702543441539_9146836110482079744_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=CHkEtaIU1-kAX_tt9nA&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=7812ba93353380a41a13cff151e6331a&oe=61528526",
+          "images/MarvelBobbleHeadmain2.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78621178_113702770108183_7226522138990084096_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=h6IExFYxvdgAX_xBBN4&_nc_ht=scontent.fdac99-1.fna&oh=07a148219871c916de4b0ac677932d2c&oe=6155B3D1",
+          "images/MarvelBobbleHeadmain3.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78331421_113702596774867_5377798975900352512_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=10UIhTKK2tAAX-nHcVj&_nc_ht=scontent.fdac99-1.fna&oh=c97153df565447246d9e9cff8604003b&oe=6153FC52",
+          "images/MarvelBobbleHeadmain4.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78146623_113702566774870_1251565629106814976_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=bnsPwMZjmGcAX9PIhl4&_nc_oc=AQnyAfiBYu26ufNQPXa0bcsJUIYU8Ka6JGGh76dq5ahOKqd-38O0eIC8WunS-uOCjwo&_nc_ht=scontent.fdac99-1.fna&oh=5568a8f97dccce01d24d566975ac0979&oe=6152D708",
+          "images/MarvelBobbleHeadmain5.jpg",
       },
       {
         id: 6,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78049568_113702730108187_6464795189234892800_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=e-mXQ41ZarAAX-d5b7Y&_nc_ht=scontent.fdac99-1.fna&oh=c2861c5de99942996dbb404524aa56cf&oe=61547B9B",
+          "images/MarvelBobbleHeadmain6.jpg",
       },
     ],
     category: "BubbleheadList",
@@ -857,37 +837,42 @@ const ProductsList = [
     ratings: "220",
     react: "993",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79122681_108203483991445_1043138064597123072_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=644Px4GUHEAAX_D94_6&_nc_ht=scontent.fdac99-1.fna&oh=2db1ba1d94e8d3ef6db350cba8692508&oe=6148A7F6",
+      "images/Headphoneemojipouch.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78625879_108997823912011_2091635088738484224_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=QT6rgzP0XLsAX_aEfh8&_nc_oc=AQlBX-2yhWtF42O6RixY79zKVswQv9yGdn-CZgxp9hHtGiaz2604kZ2J8UnlCTVQnOo&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=2372e99e6239c05567e32c73fcb51883&oe=61541173",
+          "images/Headphoneemojipouch.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/79308343_108996127245514_6396616036564598784_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=U3ZLM10_AQUAX-GscmC&_nc_oc=AQkvA1Gaf7fG0MIPxYKL78stkJEtvGcYTsrA2GS4M3BATBhnJx4ur2JQ5hJkph59_gs&_nc_ht=scontent.fdac99-1.fna&oh=6c972a4be95231ba731b59f79c37ebc7&oe=61561100",
+          "images/Headphoneemojipouch1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78284866_108996110578849_6256175369104130048_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=-cO5Jc8pnbYAX_BAGjO&_nc_ht=scontent.fdac99-1.fna&oh=2450379606edd65f548362d8e17b7c13&oe=6154151C",
+          "images/Headphoneemojipouchmain1.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78761039_108996253912168_8969259940304650240_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=V5KJbhE7i0UAX96YMik&_nc_ht=scontent.fdac99-1.fna&oh=9bae1b6d4a2b72c1cfda6fffbb4d7921&oe=61563393",
+          "images/Headphoneemojipouchmain2.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78071045_108996300578830_6019644905863774208_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=VQ0XdsZuPGUAX_pe0jr&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=baef94c4b4b26cd95f1919366eaa47eb&oe=61540141",
+          "images/Headphoneemojipouchmain3.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/75305755_108996287245498_3293368106390388736_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=9JefjcO431QAX-ICBWG&_nc_ht=scontent.fdac99-1.fna&oh=3fac182c957d3cbe450c6eb11e13b5dc&oe=6153E0BE",
+          "images/Headphoneemojipouchmain4.jpg",
+      },
+      {
+        id: 6,
+        slidepic:
+          "images/Headphoneemojipouchmain5.jpg",
       },
     ],
     category: "BubbleheadList",
@@ -903,22 +888,22 @@ const ProductsList = [
     ratings: "262",
     react: "893",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78457315_109024927242634_1531986912900808704_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=WkbKsnEMHC8AX989iuJ&_nc_ht=scontent.fdac99-1.fna&oh=b160420df56569f1c3a2da6b5ca00ac8&oe=61460003",
+      "images/HoodiefromAvengers.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78457315_109024927242634_1531986912900808704_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=-1JHLT37dM8AX9_5NYa&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=f2db6abb741ba69052cf90b2dc352b64&oe=6155D203",
+          "images/HoodiefromAvengers.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78975876_109024857242641_4955691088993058816_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=4E1CXn-qPyIAX-M5s-r&_nc_ht=scontent.fdac99-1.fna&oh=89f48be566a1bb1fd23642b2d2313eab&oe=6152A489",
+          "images/HoodiefromAvengers1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78701319_109024903909303_7778854280420655104_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=MwVIMBzNzvIAX-BWl6S&_nc_ht=scontent.fdac99-1.fna&oh=d6a4f77e401a950299d473b2696e3490&oe=6154C3A7",
+          "images/HoodiefromAvengersmain2.jpg",
       },
     ],
     category: "HoodieList",
@@ -934,32 +919,32 @@ const ProductsList = [
     ratings: "42",
     react: "413",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78578135_109132687231858_4219154599170277376_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=paHJWFJuv4QAX98ijLB&_nc_ht=scontent.fdac99-1.fna&oh=b21ef318619690fc90d396c6d44acc79&oe=61489AE1",
+      "images/MiniNotepad.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78578135_109132687231858_4219154599170277376_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=u2kq1Neblc0AX-9aGAN&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=2e11f0fe57740db6b50d12c39edaf549&oe=61547861",
+          "images/MiniNotepad.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/77430689_109117953899998_2254685799779926016_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=l7Iw1uF2u40AX_44kZw&_nc_ht=scontent.fdac99-1.fna&oh=d34316edbecfae3141e472913953949e&oe=6155FB03",
+          "images/MiniNotepadmain1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78339988_109118030566657_4741586243437985792_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=A3mzveLEBVIAX9lFFJ0&_nc_ht=scontent.fdac99-1.fna&oh=234d2b90725efe5a01fd9ab1a1f988e3&oe=6153B456",
+          "images/MiniNotepadmain2.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78130401_109118113899982_7219346665977675776_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=4WMEkp1W2sgAX8ZRPRa&_nc_ht=scontent.fdac99-1.fna&oh=e536f3b8946488be5f2553fa92f07242&oe=61557F52",
+          "images/MiniNotepadmain3.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/77199493_109117907233336_7811105215616122880_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=xiv4KTihO3wAX9AcVoM&_nc_ht=scontent.fdac99-1.fna&oh=9cdeabdade28cb02c8a37f33c3469c87&oe=6153D117",
+          "images/MiniNotepadmain4.jpg",
       },
     ],
     category: "DiaryList",
@@ -974,32 +959,32 @@ const ProductsList = [
     ratings: "292",
     react: "393",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78793948_113739726771154_3561257487363473408_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=xW3hS0Aw15sAX9QItX3&_nc_ht=scontent.fdac99-1.fna&oh=52ab6cd39320b79a1c6b92b78e82b126&oe=61477DA2",
+      "images/Rubik'scube.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78793948_113739726771154_3561257487363473408_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=WaM2oJ-Pzw4AX811e_d&_nc_ht=scontent.fdac99-1.fna&oh=d3be6fe07b2349bf2a011b1926b21a9d&oe=61535B22",
+          "images/Rubik'scube.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78362687_113739673437826_8157460518055968768_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=FkkdEIYpJMAAX8gklMR&_nc_ht=scontent.fdac99-1.fna&oh=77b10d26f0ec800220993939148ef0f0&oe=6153AF18",
+          "images/Rubik'scube1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/74434612_113739640104496_6894548491591221248_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=mTvIsmsPef8AX_QmrZ9&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=aebaf696c95423b1c1140b0bb86c959c&oe=61561BFC",
+          "images/Rubik'scube2.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/78392605_113739760104484_5879055933182574592_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=1uJB6IDJe9oAX_LQA0p&_nc_ht=scontent.fdac99-1.fna&oh=1fb7037dc587f77fff2847d852a30457&oe=61553D0B",
+          "images/Rubik'scube3.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/74236001_113739660104494_6212125402832306176_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=A4IJSlFjC-UAX-41eUw&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=f337628023f41f4d7d5411ce44baaf54&oe=6153CD23",
+          "images/Rubik'scubemain1.jpg",
       },
     ],
     category: "Rubik'sList",
@@ -1014,42 +999,37 @@ const ProductsList = [
     ratings: "220",
     react: "177",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/85045861_140134217465038_8930728027755642880_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=ZKOUlkiCpNgAX_xhVlW&_nc_ht=scontent.fdac99-1.fna&oh=a12ddd50a3471c5bf522243536831c5c&oe=6149DA3B",
+      "images/LEDPocketMirror.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/85045861_140134217465038_8930728027755642880_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=D80FEuK8y7YAX_MKmOd&_nc_ht=scontent.fdac99-1.fna&oh=38c8891be13b291e7e6b056f7595d8e3&oe=6155B7BB",
+          "images/LEDPocketMirror.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/86378301_140134360798357_1322412476158967808_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=UoM90KsFOxIAX-pybsI&_nc_ht=scontent.fdac99-1.fna&oh=e86c836fbe6a70c6aa05188c0e421701&oe=6155FFDC",
+          "images/LEDPocketMirror1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/86462540_140134870798306_6480687599022243840_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=12SRQ4EGX_UAX-j1M8X&_nc_ht=scontent.fdac99-1.fna&oh=aeb837fc5136f35ac818063895be1cd5&oe=61526A06",
+          "images/LEDPocketMirror2.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/86252361_140135100798283_4658528082808799232_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=siQLFmp7BPsAX8cHqUj&_nc_ht=scontent.fdac99-1.fna&oh=83d3de36e28fece2921657a7fb236b41&oe=6154F321",
+          "images/LEDPocketMirror3.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/86251045_140134904131636_228125693278420992_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=Y_B4KJAgSHkAX80S8kC&_nc_ht=scontent.fdac99-1.fna&oh=398d3acbca2fcd99b9cd3717e08ed31a&oe=61560373",
+          "images/LEDPocketMirrormain1.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/86270583_140135284131598_6656262318734704640_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=A-Q6AIwfkKoAX_cG0sE&_nc_ht=scontent.fdac99-1.fna&oh=9d437aded638a5c56ec85632c1c5b158&oe=615547D4",
-      },
-      {
-        id: 6,
-        slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/86180361_140134417465018_3066848709405835264_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=ESX8YVJ-kSgAX9bc5e1&_nc_oc=AQk-V-4g9gcja3O6hYelP27bh5GruDKhOkA2hAXi86v7SRcixOPgxldiJQIBTMim73g&_nc_ht=scontent.fdac99-1.fna&oh=bbc96ac2ed06b3a8dcbab39d5c41993a&oe=6152BE0F",
+          "images/LEDPocketMirrormain2.jpg",
       },
     ],
     category: "Mirror",

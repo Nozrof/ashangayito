@@ -3,7 +3,7 @@ const ProductsList = [
     id: 1,
     name: "👝 Multi-purpose Waterproof Pouch 👝",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84659009_138884130923380_5028001179863351296_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=m0TsYdYl7b4AX9onLwT&_nc_ht=scontent.fdac99-1.fna&oh=2016d2b64644f94b7aedafda5b9c9322&oe=6146E7C3",
+      "images/Pouch.jpg",
     category: "Pouch",
     label: "Pouchlist",
     ratings: "268",
@@ -12,62 +12,62 @@ const ProductsList = [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84659009_138884130923380_5028001179863351296_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=DaHYOehO4UAAX-8BW4-&_nc_ht=scontent.fdac99-1.fna&oh=e4777f3d1162a58454dc37c0b120d9a4&oe=6152C543",
+          "images/Pouch.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84616458_138884167590043_6436679135019401216_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=ZQvSPN9KlJcAX_RYYat&_nc_ht=scontent.fdac99-1.fna&oh=f7a66039a61d2c01fde24db45fe73cd1&oe=61559659",
+          "images/Pouch2.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84919287_138884097590050_8467545397206712320_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=C25OmZl_9e8AX-MmJd2&_nc_oc=AQl8X89xqZsCfpwfhEJLrlP5MpDgFR_Me8W-EKT0ZKE32ObSF3bTpCtEkfE0IsUTEA4&_nc_ht=scontent.fdac99-1.fna&oh=41b15e9d0069a0e11dc451a8b95d2bb7&oe=61562B1B",
+          "images/Pouch1.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84831011_138885954256531_236776380182822912_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=3jNbQTwx4q8AX9p12ur&_nc_ht=scontent.fdac99-1.fna&oh=e5f32a5d1c9e7cb32d5bed4642dc041b&oe=61528350",
+          "images/Pouchmain1.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84664649_138884687589991_2496462737371037696_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=frTX6O2yZYMAX_FTp9e&_nc_ht=scontent.fdac99-1.fna&oh=635a1e578d7e3481ffc826492bc82133&oe=61544881",
+          "images/Pouchmain2.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84882308_138884664256660_454680493678395392_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=7C6b843nVyQAX9SbmYn&_nc_ht=scontent.fdac99-1.fna&oh=8d9abc976581cae1d0c1ddb1a5a646b0&oe=615409EB",
+          "images/Pouchmain3.jpg",
       },
       {
         id: 6,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84519676_138884717589988_2961189232569221120_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=OMCs8wFBOT8AX9Dyijb&_nc_ht=scontent.fdac99-1.fna&oh=189a474e4c0ce46657808cb43643d158&oe=6154C69C",
+          "images/Pouchmain4.jpg",
       },
       {
         id: 7,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84558394_138885910923202_8353327150060797952_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=YxCtm23YlR4AX_AExvG&_nc_ht=scontent.fdac99-1.fna&oh=819065641f401923b6c5564d49cecc84&oe=615345BB",
+          "images/Pouchmain5.jpg",
       },
       {
         id: 8,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84644473_138885927589867_4898483383035756544_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=ZE_Sc32wm9EAX_kLbgm&_nc_ht=scontent.fdac99-1.fna&oh=6fb02009f503f4a75eca59c6c59f16be&oe=6155066F",
+          "images/Pouchmain6.jpg",
       },
       {
         id: 9,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84818725_138886420923151_454656111149056000_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=pj0NrcHyZ0oAX-M1p37&_nc_ht=scontent.fdac99-1.fna&oh=4dc722afad25a9d599a8d389bf2e2d6f&oe=615542B9",
+          "images/Pouchmain7.jpg",
       },
       {
         id: 10,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/85121642_138886404256486_7451688921924108288_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=O1OsQ0OSRkMAX__zhMp&_nc_ht=scontent.fdac99-1.fna&oh=2d1ab3858efae8933bf30aca5133615f&oe=615344FE",
+          "images/Pouchmain8.jpg",
       },
       {
         id: 11,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84626094_138886524256474_7678078404737892352_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=3s1O4peL-2wAX-BHOI_&_nc_ht=scontent.fdac99-1.fna&oh=2878aba176c0e506c94f47a4953e99b1&oe=6153F323",
+          "images/Pouchmain9.jpg",
       },
     ],
     price: "160",
@@ -80,42 +80,42 @@ const ProductsList = [
     react: "504",
     name: "😍 Emoji Headphone Pouch 😆",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/85000361_138882697590190_2722016471088627712_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=aqaDhUtF9cwAX8vhw7r&_nc_ht=scontent.fdac99-1.fna&oh=f2d929a937815662ba9ec7760719ada0&oe=6147A8CB",
+      "images/Headphoneemojipouch.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/85000361_138882697590190_2722016471088627712_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=aqaDhUtF9cwAX8vhw7r&_nc_ht=scontent.fdac99-1.fna&oh=f2d929a937815662ba9ec7760719ada0&oe=6147A8CB",
+          "images/Headphoneemojipouch.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84356585_138883110923482_2289070895634841600_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=BsdpDKs96qoAX-II5Rx&_nc_ht=scontent.fdac99-1.fna&oh=c592420ef0c56a4f7bb9d71da79bc3e0&oe=6152E0EE",
+          "images/Headphoneemojipouch1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/85022216_138882424256884_51303380055752704_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=hINUSkBDID0AX_NgVqb&_nc_ht=scontent.fdac99-1.fna&oh=eb75fe596afc7e0388fe0d28c3c683e9&oe=615548BD",
+          "images/Headphoneemojipouchmain1.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84598259_138882394256887_7790072404285325312_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=7Z6hC-1clOYAX-ETwyM&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=700b79f567e805450c6d470aef728b6e&oe=6153E691",
+          "images/Headphoneemojipouchmain2.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/83488246_138882834256843_5910614219002216448_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=cwSInpmF6uoAX9esp0y&_nc_ht=scontent.fdac99-1.fna&oh=eb24a11ad3303f673fe93274b4a28db7&oe=6153F2A9",
+          "images/Headphoneemojipouchmain3.jpg",
       },
       {
         id: 5,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/85047768_138882854256841_19732969543434240_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=_OX1BJ41TSMAX862iqz&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=834173fb952f00d65c033beb5d420222&oe=6152E3B4",
+          "images/Headphoneemojipouchmain4.jpg",
       },
       {
         id: 6,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84971467_138882954256831_2313834951214104576_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=pqLIudeJH50AX9f0hEi&_nc_ht=scontent.fdac99-1.fna&oh=2f6a3e5a47bfc802bbd691918293aa62&oe=6155D97F",
+          "images/Headphoneemojipouchmain5.jpg",
       },
     ],
     category: "Pouch",
@@ -130,32 +130,32 @@ const ProductsList = [
     ratings: "54",
     react: "704",
     image:
-      "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84571663_137838431027950_115095584410435584_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=AgQ204aC2FMAX88OGoR&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=2d5141a6d58265244991148bd7f87c8b&oe=615460C4",
+      "images/Lamp3D.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84571663_137838431027950_115095584410435584_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=AgQ204aC2FMAX88OGoR&tn=fymKvOFYFVaCNBq4&_nc_ht=scontent.fdac99-1.fna&oh=2d5141a6d58265244991148bd7f87c8b&oe=615460C4",
+          "images/Lamp3D.jpg",
       },
       {
         id: 1,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84429121_137837867694673_7315531346175066112_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=nykim-HECHYAX-97_Uj&_nc_oc=AQm9anGO9ZvrvjYVS6UiqMc3Uo1nBwVFCTV0NDr7NzNFQcSuz7OOFzZvp8MEzu4En1o&_nc_ht=scontent.fdac99-1.fna&oh=27258b885e7e213d4d2817c6a80bfd8d&oe=61553367",
+          "images/Lamp3D1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/84448794_137838127694647_7532243657785606144_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=tkFhjVa100MAX83xDEy&_nc_ht=scontent.fdac99-1.fna&oh=0169385b02829ecc96cfefa2fd6d7a44&oe=6155F8DF",
+          "images/Lamp3Dmain1.jpg",
       },
       {
         id: 3,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/83928721_137839277694532_1731345473576370176_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=FSR8xh_NTLcAX--y4bo&_nc_ht=scontent.fdac99-1.fna&oh=5aadc289dfd6e4c3f6334214cd78ab48&oe=61529260",
+          "images/Lamp3Dmain2.jpg",
       },
       {
         id: 4,
         slidepic:
-          "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/83820721_137838081027985_7156238890431414272_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=rjVDTCYRXs4AX9UMRSI&_nc_ht=scontent.fdac99-1.fna&oh=98829806f5faa46cd3f42136942d9c4f&oe=61527D3A",
+          "images/Lamp3Dmain1.jpg",
       },
     ],
     category: "Lamp",
@@ -837,42 +837,37 @@ const ProductsList = [
     ratings: "220",
     react: "993",
     image:
-      "images/Headphoneemojipouch.jpg",
+      "images/FbbubbleHead.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "images/Headphoneemojipouch.jpg",
+          "images/FbbubbleHead.jpg",
       },
       {
         id: 1,
         slidepic:
-          "images/Headphoneemojipouch1.jpg",
+          "images/FbbubbleHeadmain1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "images/Headphoneemojipouchmain1.jpg",
+          "images/FbbubbleHeadmain2.jpg",
       },
       {
         id: 3,
         slidepic:
-          "images/Headphoneemojipouchmain2.jpg",
+          "images/FbbubbleHeadmain3.jpg",
       },
       {
         id: 4,
         slidepic:
-          "images/Headphoneemojipouchmain3.jpg",
+          "images/FbbubbleHeadmain4.jpg",
       },
       {
         id: 5,
         slidepic:
-          "images/Headphoneemojipouchmain4.jpg",
-      },
-      {
-        id: 6,
-        slidepic:
-          "images/Headphoneemojipouchmain5.jpg",
+          "images/FbbubbleHeadmain5.jpg",
       },
     ],
     category: "BubbleheadList",
@@ -1044,27 +1039,27 @@ const ProductsList = [
     ratings: "249",
     react: "493",
     image:
-      "images/ciggratelighter",
+      "images/ciggratelighter.jpg",
     slidepictures: [
       {
         id: 0,
         slidepic:
-          "images/ciggratelighter",
+          "images/ciggratelighter.jpg",
       },
       {
         id: 1,
         slidepic:
-          "images/ciggratelighter1",
+          "images/ciggratelighter1.jpg",
       },
       {
         id: 2,
         slidepic:
-          "images/ciggratelighter2",
+          "images/ciggratelighter2.jpg",
       },
       {
         id: 3,
         slidepic:
-          "images/ciggratelightermain1",
+          "images/ciggratelightermain1.jpg",
       },
     ],
     category: "ChiggratelighterList",

@@ -5,11 +5,12 @@ import { makeStyles } from "@material-ui/core/styles";
 import ProductList from "../../../ProductsList/ProductList";
 import Singleproduct from "../Singleproduct/Singleproduct";
 import { Paper, Grid } from "@material-ui/core";
-import { Route } from "react-router-dom";
+import { Link, useHistory } from "react-router-dom";
 import SingleproductRoute from "../Singleproduct/SingleproductRoute";
 const useStyles = makeStyles((theme) => ({}));
 
 export default function SpecialItems() {
+  const history = useHistory();
   const styles = useStyles();
   const [items, setItem] = useState({
     products: ProductList,
@@ -35,7 +36,10 @@ export default function SpecialItems() {
         <SpecialMainItems
           products={products}
           key={index}
-          itemSelect={() => onitemSelect(products)}
+          itemSelect={() => {
+            onitemSelect(products)
+            // history.push(`/singleproduct/${products.label}`)
+          }}
         />
       );
     }

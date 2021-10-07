@@ -12,6 +12,7 @@ import FavoriteIcon from "@material-ui/icons/Favorite";
 import ShareIcon from "@material-ui/icons/Share";
 import { useState } from "react";
 import { LinearScale } from "@material-ui/icons";
+import { Link } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -64,6 +65,10 @@ export default function AllMainItems(props) {
     <React.Fragment>
       <Grid item xs={12} md={4} sm={6} xl={3}>
         <Card className={classes.root}>
+        <Link
+          to="/singleproduct"
+          style={{ textDecoration: "none", color: "inherit" }}
+        >
           <CardHeader
             avatar={
               <Avatar>
@@ -78,12 +83,18 @@ export default function AllMainItems(props) {
             onClick={itemSelect}
             className={classes.header}
           />
+          </Link>
+          <Link
+          to="/singleproduct"
+          style={{ textDecoration: "none", color: "inherit" }}
+        >
           <CardMedia
             className={classes.media}
             image={products.image}
             title={products.name}
             onClick={itemSelect}
           />
+          </Link>
           <CardContent>
             <Typography variant="body2" color="textSecondary" component="p">
               <Typography>🎁৳{products.price}🎁</Typography>

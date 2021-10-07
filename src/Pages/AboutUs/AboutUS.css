@@ -17,6 +17,7 @@ div .box {
 .box .box-img img {
   width: 100%;
   height: auto;
+  border-radius: 1%;
 }
 .box .content {
   color: blanchedalmond;

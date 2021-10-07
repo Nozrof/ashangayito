@@ -1,6 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import { Typography, Container, Paper, Link } from "@material-ui/core";
+import { Typography, Container, Paper} from "@material-ui/core";
+import { Link } from "react-router-dom";
 
 
 const useStyles = makeStyles((theme) => ({
@@ -15,12 +16,15 @@ const useStyles = makeStyles((theme) => ({
   data: {
     marginLeft: theme.spacing(0),
   },
+  titlepad: {
+    marginTop: theme.spacing(7),
+  }
 }));
 
 export default function Privacy() {
   const styles = useStyles();
   return (
-    <div>
+    <div className={styles.titlepad}>
       <Container>
         <div className={styles.title}>
           <Typography className={styles.title} variant="h2" component="p">
@@ -30,7 +34,7 @@ export default function Privacy() {
             <Typography variant="h6" component="p">
               Welcome to the Ashongayito.com.bd website operated by&nbsp;
               <Link
-                href="/AboutUs"
+                to="/about"
                 style={{ textDecoration: "none", color: "orange" }}
               >
                 We Ashongayito Bangladesh

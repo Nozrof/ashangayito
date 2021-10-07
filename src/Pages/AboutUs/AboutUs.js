@@ -25,7 +25,7 @@ export default function AboutUs() {
             <Grid item xs={12} sm={6} md={6}>
               <div class="box">
                 <div class="box-img">
-                  <img src="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/124449737_1023914228127210_8767509000799212704_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=0srh22bkPr8AX_4c_IE&_nc_ht=scontent.fdac99-1.fna&oh=cb4fdbb2b109a46cf7a10974c3abdfa5&oe=615A1E1E" />
+                  <img src="images/shahriar.jpg" />
                 </div>
                 <div class="content">
                   <h3>Nozrof Shahriar Shuvo</h3>
@@ -84,7 +84,7 @@ export default function AboutUs() {
             <Grid item xs={12} sm={6} md={6}>
               <div class="box">
                 <div class="box-img">
-                  <img src="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/53031575_1061585554032991_5399796101878382592_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=VT9XbgPzKd8AX9REIaR&tn=SPHJ9h0u0ZMEnkOU&_nc_ht=scontent.fdac99-1.fna&oh=17492b184995fc39ab46f188b0e22236&oe=615A36C6" />
+                  <img src="images/shayak.jpg" />
                 </div>
                 <div class="content">
                   <h3>Anisuzzaman Shayak</h3>
@@ -144,7 +144,7 @@ export default function AboutUs() {
             <Grid item xs={12} sm={6} md={6} className={styles.rightdiv}>
               <div class="box">
                 <div class="box-img">
-                  <img src="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/240828309_3093119524342911_308989587471361831_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=GPR__Ord2ykAX-8uHP7&tn=SPHJ9h0u0ZMEnkOU&_nc_ht=scontent.fdac99-1.fna&oh=fdfaeed123340d27493513340d7f726a&oe=615D8171" />
+                  <img src="images/morshed.jpg" />
                 </div>
                 <div class="content">
                   <h3>Hossain Mohammad Morshed</h3>

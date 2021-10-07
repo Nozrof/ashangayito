@@ -63,10 +63,7 @@ export default function SpecialMainItems(props) {
   return (
     <Grid item xs={12} md={4} sm={6} xl={3}>
       <Card className={classes.root}>
-        <Link
-          to={"/" + products.label}
-          style={{ textDecoration: "none", color: "inherit" }}
-        >
+       
           <CardHeader
             avatar={
               <Avatar>
@@ -81,18 +78,15 @@ export default function SpecialMainItems(props) {
             onClick={itemSelect}
             className={classes.header}
           />
-        </Link>
-        <Link
-          to={"/" + products.label}
-          style={{ textDecoration: "none", color: "inherit" }}
-        >
+        
+        
           <CardMedia
             className={classes.media}
             image={products.image}
             title={products.name}
             onClick={itemSelect}
           />
-        </Link>
+      
         <CardContent>
           <Typography variant="body2" color="textSecondary" component="p">
             <Typography>🎁৳{products.price}🎁</Typography>

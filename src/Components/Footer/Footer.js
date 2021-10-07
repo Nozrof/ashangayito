@@ -1,6 +1,7 @@
-import { Box, Container, Grid, Link } from "@material-ui/core";
+import { Box, Container, Grid } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core";
 import React from "react";
+import { Link } from "react-router-dom";
 
 
 const usestyles = makeStyles((theme) => ({
@@ -29,7 +30,7 @@ export default function Footer() {
               <Box borderBottom={1}>Help</Box>
               <Box>
                 <Link
-                  href="/"
+                  to="/"
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
                   Contact
@@ -37,7 +38,7 @@ export default function Footer() {
               </Box>
               <Box>
                 <Link
-                  href="/"
+                  to="/"
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
                   Support
@@ -45,7 +46,7 @@ export default function Footer() {
               </Box>
               <Box>
                 <Link
-                  href="/"
+                  to="/privacy"
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
                   Privacy & Policy
@@ -56,7 +57,7 @@ export default function Footer() {
               <Box borderBottom={1}>Account</Box>
               <Box>
                 <Link
-                  href="/"
+                  to="/login"
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
                   Login
@@ -64,7 +65,7 @@ export default function Footer() {
               </Box>
               <Box>
                 <Link
-                  href="/"
+                  to="/massages"
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
                   Massages
@@ -72,7 +73,7 @@ export default function Footer() {
               </Box>
               <Box>
                 <Link
-                  href="/"
+                  to="/security"
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
                   Security
@@ -83,7 +84,7 @@ export default function Footer() {
               <Box borderBottom={1}>Information</Box>
               <Box>
                 <Link
-                  href="/"
+                  to="/about"
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
                   About Us
@@ -91,7 +92,7 @@ export default function Footer() {
               </Box>
               <Box>
                 <Link
-                  href="/"
+                  to="/info"
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
                   Page Information
@@ -99,7 +100,7 @@ export default function Footer() {
               </Box>
               <Box>
                 <Link
-                  href="/"
+                  to="/events"
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
                   Events

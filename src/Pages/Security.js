@@ -15,12 +15,15 @@ const useStyles = makeStyles((theme) => ({
   data: {
     marginLeft: theme.spacing(0),
   },
+  titlepad: {
+    marginTop: theme.spacing(7),
+  }
 }));
 
 export default function Security() {
   const styles = useStyles();
   return (
-    <div>
+    <div className={styles.titlepad}>
       <Container>
         <Typography variant="h2" component="p" className={styles.title}>
           System Of Process

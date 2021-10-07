@@ -1,6 +1,7 @@
-import { Typography, Container, Paper, Link } from "@material-ui/core";
+import { Typography, Container, Paper } from "@material-ui/core";
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
+import { Link } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
   Typo: {
@@ -11,12 +12,15 @@ const useStyles = makeStyles((theme) => ({
   title: {
     margin: theme.spacing(2),
   },
+  titlepad: {
+    marginTop: theme.spacing(7),
+  }
 }));
 
 export default function PageInformation() {
   const styles = useStyles();
   return (
-    <div>
+    <div className={styles.titlepad}>
       <Container>
         <div className={styles.title}>
           <Typography variant="h2" component="p">
@@ -43,11 +47,11 @@ export default function PageInformation() {
             take leave from our business for financial problem. Everyone lost
             patience and continued to go out, but{" "}
             <Link
-              href="/AboutUs"
+              to="/about"
               style={{ textDecoration: "none", color: "orange" }}
             >
               we three friends
-            </Link>{" "}
+            </Link>
             can say that the three roommate, we tried to run it slow
             progressively.And we take 3rd,4th and 5th shipment and Inshaa Allah
             it will keep up. Alhamdulillah We earn a lot through Facebook online
@@ -87,8 +91,6 @@ export default function PageInformation() {
           </Typography>
         </Paper>
       </Container>
-
-      {/* <Footer /> */}
     </div>
   );
 }

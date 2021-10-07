@@ -13,7 +13,9 @@ const useStyles = makeStyles((theme) => ({
   Grid: {
     marginBottom: theme.spacing(2),
   },
+
 }));
+
 
 export default function AllItems() {
   const styles = useStyles();
@@ -59,6 +61,7 @@ export default function AllItems() {
           {displayProducts}
         </Grid>
         <ReactPaginate
+       
           previousLabel={"Previous"}
           nextLabel={"Next"}
           pageCount={pageCount}

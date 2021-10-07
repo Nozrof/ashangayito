@@ -4,6 +4,7 @@
   list-style: none;
   display: flex;
   justify-content: center;
+  margin-left: 60px;
 }
 .paginationBttns a {
   padding: 10px;
